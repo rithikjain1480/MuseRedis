@@ -1,0 +1,64 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdx32.dll 8.15.10.1892]
+    Renderer: Mobile Intel(R) 4 Series Express Chipset Family
+    Vendor:   Intel
+    VRAM:     879 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=0 NativeShadow=1 DF16=0 INTZ=0 NULL=0 RESZ=0 SlowINTZ=0 ATOC=0 BC4=0 BC5=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.057 seconds
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Cannot start with unsupported graphics API.Cannot start with unsupported graphics API.UnloadTime: 1.924777 ms
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdx32.dll 8.15.10.1892]
+    Renderer: Mobile Intel(R) 4 Series Express Chipset Family
+    Vendor:   Intel
+    VRAM:     879 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=0 NativeShadow=1 DF16=0 INTZ=0 NULL=0 RESZ=0 SlowINTZ=0 ATOC=0 BC4=0 BC5=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.053 seconds
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Daddy.lalzz\Downloads\TempleRun-master\TempleRun-master\testclr_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Cannot start with unsupported graphics API.Cannot start with unsupported graphics API.UnloadTime: 1.784326 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2ba0 -> priority: 1 
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 5e0 -> priority: 1 
